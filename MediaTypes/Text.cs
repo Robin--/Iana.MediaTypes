@@ -21,6 +21,7 @@ namespace Iana.MediaTypes
         public readonly  string mizar = "text/mizar"; //[Jesse_Alama]
         public readonly  string n3 = "text/n3"; //[W3C][Eric_Prudhommeaux]
         public readonly  string parameters = "text/parameters"; //[RFC7826]
+        public readonly  string plain = "text/plain"; //[RFC7826]
         public readonly  string provenance_notation = "text/provenance-notation" ; //[W3C][Ivan_Herman]
         public readonly  string prs_fallenstein_rst = "text/prs.fallenstein.rst" ; //[Benja_Fallenstein]
         public readonly  string prs_lines_tag = "text/prs.lines.tag" ; //[John_Lines]
